@@ -1,0 +1,6 @@
+{
+  "name": "knip-repro",
+  "private": true,
+  "type": "module",
+  "devDependencies": { "vite-plus": "*" }
+}
